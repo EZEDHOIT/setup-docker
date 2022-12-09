@@ -3,7 +3,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-https://github.com/ezedhoit/setup-docker-laravel
+https://github.com/ezedhoit/setup-docker
 ```
 
 Clone os Arquivos do Laravel
